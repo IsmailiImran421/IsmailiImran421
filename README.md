@@ -60,7 +60,7 @@ class ImranIsmaili extends Developer
     public $skills = [
         "Frontend" => ["HTML", "CSS", "Bootstrap", "JavaScript"],
         "Backend"  => ["PHP", "MVC", "OOP"],
-        "Database" => ["MySQL", "SQLite"],
+        "Database" => ["MySQL"],
         "Tools"    => ["Git", "VS Code", "Linux"]
     ];
 
