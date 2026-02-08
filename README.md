@@ -44,7 +44,6 @@ Based in Morocco 🇲🇦
 ![UML](https://img.shields.io/badge/UML-Modeling-critical)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
@@ -65,7 +64,7 @@ class ImranIsmaili extends FullStackDeveloper
         "Backend"   => ["PHP", "MVC", "OOP"],
         "Database"  => ["MySQL"],
         "Design"    => ["UML", "Figma"],
-        "Tools"     => ["Git", "Linux", "VS Code"]
+        "Tools"     => ["Git", "VS Code"]
     ];
 
     public function build()
