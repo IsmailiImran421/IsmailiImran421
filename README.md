@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
 <h1>Hi 👋, I'm Imran Ismaili</h1>
 <h3>Full-Stack Web Developer | Web Applications & MVC Architecture</h3>
@@ -19,7 +18,6 @@ Based in Morocco 🇲🇦
 ## 🚀 About Me
 
 - 🔭 Currently working on **Web Applications using PHP & MVC**
-- 🌱 Learning **Advanced Backend Concepts & Software Design**
 - 🧠 Interested in **Clean Code, Databases, and System Design**
 - 💬 Ask me about **PHP, MVC, HTML, CSS, Bootstrap, Databases**
 - ⚡ Fun fact: *If it works, don’t touch it again 😄*
