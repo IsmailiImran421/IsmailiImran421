@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Imran Ismaili</h1>
+<h1>Hi 👋, I'm Imran Ismaili </h1>
 <h3>Full-Stack Web Developer | Web Applications & MVC Architecture</h3>
 
 <p>
@@ -10,6 +10,7 @@ Based in Morocco 🇲🇦
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=flat&color=orange)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-orange?style=for-the-badge&logo=react)](https://imranismaili.netlify.app/)
 
 </div>
 
