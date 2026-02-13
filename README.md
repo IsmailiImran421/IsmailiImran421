@@ -16,8 +16,12 @@ Based in Morocco 🇲🇦
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check_it_out-orange?style=for-the-badge&logo=react)]((https://imranismaili.netlify.app/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aimran-ismaili-7b2a2432b/)
+<a href="https://imranismaili.netlify.app/">
+<img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=Portfolio" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/aimran-ismaili-7b2a2432b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
 
 
 
