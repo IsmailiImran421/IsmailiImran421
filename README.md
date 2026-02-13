@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Imran Ismaili </h1>
 
-<h3>Full-Stack Web Developer | Web Applications & MVC Architecture</h3>
+<h3>Full-Stack Web Developer | MVC Architecture| UI Designer</h3>
 
 
 
